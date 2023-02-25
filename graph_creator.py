@@ -72,9 +72,9 @@ G.add_edge(surprise, trust, label=curiosity)
 G.add_edge(surprise, sadness, label=disapproval)
 
 G.add_edge(sadness, disgust, label=regret)
-G.add_edge(sadness, anger, label=humiliate)
 G.add_edge(sadness, trust, label=sensibility)
 
+G.add_edge(anger, disgust, label=humiliate)
 G.add_edge(anger, trust, label=dominance)
 
 fig = plt.figure(figsize=(10, 8))
