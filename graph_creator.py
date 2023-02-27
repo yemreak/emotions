@@ -57,7 +57,7 @@ G.add_edge(joy, anger, label=arrogance)
 G.add_edge(joy, trust, label=love)
 
 G.add_edge(anticipation, fear, label=fussiness)
-G.add_edge(anticipation, anger, label=rage)
+G.add_edge(anticipation, anger, label=irriability)
 G.add_edge(anticipation, sadness, label=jealousy)
 G.add_edge(anticipation, trust, label=hope)
 
