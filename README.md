@@ -2,7 +2,7 @@
 
 Duygular üzerine yaptığım araştırmalarımı ve çalışmalarımı derlediğim repo (şimdilik türkçe)
 
-![emotions_maps](https://i.imgur.com/qmLFqFX.png)
+![emotions_maps](https://i.imgur.com/JYSkA0J.png)
 
 ## 2017'de Duygular
 
